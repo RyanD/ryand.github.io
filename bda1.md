@@ -12,9 +12,10 @@
 ### Annointed Diciple
 
 ``INTERRUPT PRIORITY``
-# Heal
-# Pennance
-# Divine Burst (if interrupt-heavy)
+1. Heal
+2. Pennance
+3. Divine Burst (if interrupt-heavy)
+
 
 ### Crusaders
 * Blind - Don't face the add, 
