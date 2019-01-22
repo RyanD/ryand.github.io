@@ -1,12 +1,14 @@
 # Champions Of The Light
 
-1. Keep adds *30 yards* from Boss
+1. Keep adds ``30 yards`` from Boss
 2. Seal of Retribution == BOSS
 3. Seal of Reckoning   == ADDS
 
-``AVOID`` Wave of Light -> Heals adds
+###Wave of Light ``AVOID`` 
+> Heals adds
 
-``STACK`` Justgement Reckoning -> For Healz
+###Justgement Reckoning ``STACK``  
+> For Healz
 
 ## Adds
 ### Annointed Diciple
