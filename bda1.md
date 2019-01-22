@@ -8,19 +8,20 @@
 ### Abilities
 |Ability|Strategy|Description|
 |---|---|---|
-|Wave of Light|<span style="color: purple;">*AVOID*</span>|Heals adds.
-|Judgement Reckoning|*STACK*|Raidwide damage, stack for healz.
+|Wave of Light|*AVOID*</span>|`Heals adds.`
+|Judgement Reckoning|*STACK*|`Raidwide damage, stack for healz.`
 
 ## The Adds
 ### Annointed Diciple
 
-``INTERRUPT PRIORITY``
+`INTERRUPT PRIORITY`
 1. Heal
 2. Pennance
 3. Divine Burst (if interrupt-heavy)
 
-
 ### Crusaders
-* Blind - Don't face the add, 
-* Crusader Strike - Tank Mitigation
-* Divine Burst - Tank move out
+|Ability|Strategy|Description|
+|---|---|---|
+|Blinding Faith|*TURN AROUND*|`Don't face the add, big stun.`
+|Crusader Strike|*TANK MITIGATE*|`Tank damaging ability.`
+|Divine Burst|*Move Add Off Puddle*|`Tank moves the add out of the puddles.`
