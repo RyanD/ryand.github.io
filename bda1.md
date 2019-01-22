@@ -1,18 +1,17 @@
 # Champions Of The Light
 
+## The Boss
 1. Keep adds ``30 yards`` from Boss
 2. Seal of Retribution == BOSS
 3. Seal of Reckoning   == ADDS
 
-###Wave of Light 
-``AVOID`` 
-> Heals adds
+### Abilities
+|Ability|Strategy|Description|
+|---|---|---|
+|Wave of Light|*AVOID*|>Heals adds.
+|Judgement Reckoning|*STACK*|>Raidwide damage, stack for healz.
 
-###Justgement Reckoning 
-``STACK``  
-> For Healz
-
-## Adds
+## The Adds
 ### Annointed Diciple
 
 ``INTERRUPT PRIORITY``
