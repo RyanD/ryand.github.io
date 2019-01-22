@@ -8,8 +8,8 @@
 ### Abilities
 |Ability|Strategy|Description|
 |---|---|---|
-|Wave of Light|*AVOID*|>Heals adds.
-|Judgement Reckoning|*STACK*|>Raidwide damage, stack for healz.
+|Wave of Light|<span style="color: purple;">*AVOID*</span>|Heals adds.
+|Judgement Reckoning|*STACK*|Raidwide damage, stack for healz.
 
 ## The Adds
 ### Annointed Diciple
