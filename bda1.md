@@ -5,12 +5,12 @@
 2. Seal of Retribution == BOSS
 3. Seal of Reckoning   == ADDS
 
-[img](bda1.png)
+![img](bda1.png)
 
 ### Abilities
 |Ability|Strategy|Description|
 |---|---|---|
-|Wave of Light|*AVOID*</span>|`Heals adds.`
+|Wave of Light|*AVOID*|`Heals adds.`
 |Judgement Reckoning|*STACK*|`Raidwide damage, stack for healz.`
 
 ## The Adds
