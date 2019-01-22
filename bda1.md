@@ -5,6 +5,8 @@
 2. Seal of Retribution == BOSS
 3. Seal of Reckoning   == ADDS
 
+[img](bda1.png)
+
 ### Abilities
 |Ability|Strategy|Description|
 |---|---|---|
