@@ -4,10 +4,12 @@
 2. Seal of Retribution == BOSS
 3. Seal of Reckoning   == ADDS
 
-###Wave of Light ``AVOID`` 
+###Wave of Light 
+``AVOID`` 
 > Heals adds
 
-###Justgement Reckoning ``STACK``  
+###Justgement Reckoning 
+``STACK``  
 > For Healz
 
 ## Adds
